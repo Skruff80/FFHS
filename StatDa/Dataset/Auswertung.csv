@@ -1,5 +1,5 @@
-﻿ID;Produkt_Kategorie;Start_Zeitpunkt;Time_Differenz_min;Volumen_ml;Gewicht_gramm;Cup_Temperatur;Median_Outlet_Temperatur;Mean_Outlet_Temperatur
-P1;H Foam_random;13:08;;185;116.3;65;77.66;71.56
+﻿ID;Product_Category;Start_Timestamp;Time_Difference_min;Volume_ml;Cup_Weight_gramm;Cup_Temperature;Median_Outlet_Temperature;Mean_Outlet_Temperature
+P1;H Foam_random;13:08;00:05;185;116.3;65;77.66;71.56
 P2;H Foam_random;13:55;00:47;180;113.1;71;77.54;75.17
 P3;H Foam_random;15:16;01:21;180;113.6;72;76.79;73.19
 P4;H Foam_random;15:26;00:10;180;113.4;70;76.7;72.06
