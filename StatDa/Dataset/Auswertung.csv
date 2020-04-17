@@ -1,4 +1,4 @@
-﻿ID;Product_Category;Start_Timestamp;Time_Difference(min);Volume_Foam;Weight (gramm);Volume_Cappuccino;Weight Cappuccino;Extraction_Time;Weight_Coffee;Cup_Temperature;Median_Outlet Temperatur;Mean_Outlet Temperatur
+﻿ID;Product_Category;Start_Timestamp;Time_Difference;Volume_Foam;Weight_Foam;Volume_Cappuccino;Weight_Cappuccino;Extraction_Time;Weight_Coffee;Cup_Temperature;Median_Outlet Temperatur;Mean_Outlet Temperatur
 P1;H Foam_random;13:08;;185;116.3;;;;;65;77.66;71.56
 P2;H Foam_random;13:55;00:47;180;113.1;;;;;71;77.54;75.17
 P3;H Foam_random;15:16;01:21;180;113.6;;;;;72;76.79;73.19
